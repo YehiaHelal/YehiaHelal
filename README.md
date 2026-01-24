@@ -50,7 +50,7 @@ I'm a passionate developer with 3+ years of experience in building modern web ap
 ## 📈 Experience
 
 ### 💻 **Full Stack Web Developer**  
-*Freelancer | 3 Years*  
+*X Tech | 3+ Years*  
 - Built and Developed various web projects Game marketplace and eCommerce.
 - Full Stack Development and Discord Bot Development (40+ bots built and sold)
 - Web Scraping & Automation (Puppeteer)
@@ -60,7 +60,7 @@ I'm a passionate developer with 3+ years of experience in building modern web ap
 - VPS & Server Management
 
 ### 📊 **General Accountant**  
-*Two Companies | 2.5 Years*  
+*Two Companies | 3 Years*  
 - Handled bookkeeping, financial reporting, and daily operational tasks.
 
 ---
