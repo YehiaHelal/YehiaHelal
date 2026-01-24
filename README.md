@@ -91,12 +91,10 @@ A showcase of my work including:
 ## 📫 Let's Connect
 
 - **Portfolio:** [xtechproducts.com](https://www.xtechproducts.com/)
-- **Email:** *[yehia.helal2016@gmail.com]*
-- **LinkedIn:** *[https://www.linkedin.com/in/yehia-helal/]*
-- **GitHub:** *[https://github.com/YehiaHelal?tab=repositories]*
+- **Email:** *yehia.helal2016@gmail.com*
+- **LinkedIn:** *https://www.linkedin.com/in/yehia-helal/*
+- **GitHub:** *https://github.com/YehiaHelal?tab=repositories*
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
 
 *Always learning, always building. Let's create something amazing together!* 🚀
