@@ -37,11 +37,13 @@ I'm a passionate developer with 3+ years of experience in building modern web ap
 ![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### **Specialties**
-- **Discord Bot Development** (40+ bots built)
+- **Full Stack Development** 
+- **Discord Bot Development** (40+ bots built and sold)
 - **Web Scraping & Automation** (Puppeteer)
 - **AI Integration**
 - **E-Commerce Solutions**
 - **VPS & Server Management**
+- Managed full project lifecycle: design, development, deployment, and client support.  
 
 ---
 
@@ -49,30 +51,30 @@ I'm a passionate developer with 3+ years of experience in building modern web ap
 
 ### 💻 **Full Stack Web Developer**  
 *Freelancer | 3 Years*  
+- Built and Developed various web projects Game marketplace and eCommerce.
 - Delivered **50+ projects** including web apps, Discord bots, and eCommerce platforms.  
 - Built and sold **40+ custom Discord bots** for gaming and community management.  
 - Managed full project lifecycle: design, development, deployment, and client support.  
 
-### 🎮 **General Staff**  
-*Discord Gaming Server | 1 Year*  
-- Managed customer orders, support tickets, and server operations.  
-- Developed game-specific automation scripts and bots.  
-
 ### 📊 **General Accountant**  
-*Two Companies | 2 Years*  
+*Two Companies | 2.5 Years*  
 - Handled bookkeeping, financial reporting, and daily operational tasks.
 
 ---
 
 ## 🚀 Projects
 
-### 🌐 **Portfolio & Projects Hub**  
+### 🌐 **Portfolio & Projects:**  
 🔗 [xtechproducts.com](https://www.xtechproducts.com/)  
 A showcase of my work including:
-- Custom eCommerce platforms
-- Discord bots with advanced features
-- Game marketplace integrations
-- Web scraping & automation tools
+- Full Stack Development 
+- Discord Bot Development (40+ bots built and sold)
+- Web Scraping & Automation (Puppeteer)
+- AI Integration
+- E-Commerce Solutions
+- Delivered 50+ projects including web apps, Discord bots and gaming platform
+- Managed full project lifecycle: design, development, deployment, and client support.
+- VPS & Server Management
 
 ---
 
@@ -89,9 +91,9 @@ A showcase of my work including:
 ## 📫 Let's Connect
 
 - **Portfolio:** [xtechproducts.com](https://www.xtechproducts.com/)
-- **Email:** *[Add your email here]*
-- **LinkedIn:** *[Add your LinkedIn profile here]*
-- **GitHub:** *[Add your GitHub profile here]*
+- **Email:** *[yehia.helal2016@gmail.com]*
+- **LinkedIn:** *[https://www.linkedin.com/in/yehia-helal/]*
+- **GitHub:** *[https://github.com/YehiaHelal?tab=repositories]*
 
 ---
 
