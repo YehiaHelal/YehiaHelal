@@ -52,9 +52,12 @@ I'm a passionate developer with 3+ years of experience in building modern web ap
 ### 💻 **Full Stack Web Developer**  
 *Freelancer | 3 Years*  
 - Built and Developed various web projects Game marketplace and eCommerce.
-- Delivered **50+ projects** including web apps, Discord bots, and eCommerce platforms.  
-- Built and sold **40+ custom Discord bots** for gaming and community management.  
-- Managed full project lifecycle: design, development, deployment, and client support.  
+- Full Stack Development and Discord Bot Development (40+ bots built and sold)
+- Web Scraping & Automation (Puppeteer)
+- AI Integration
+- Delivered 50+ projects including web apps, Discord bots and gaming platform
+- Managed full project lifecycle: design, development, deployment, and client support.
+- VPS & Server Management
 
 ### 📊 **General Accountant**  
 *Two Companies | 2.5 Years*  
