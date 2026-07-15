@@ -54,13 +54,15 @@ Main stack: Next.js, React, Node.js, Javascript, Typescript, HTML, CSS, Java & M
 - Managing full project lifecycle: design, development, deployment, and client support.
 - Using Technologies: CI/CD, Git, Vercel integration, Modern UI & UX, VPS Management, AI Integration, Discord bots Development, Custom live chat solutions, Web scraping solutions, AWS integration, GraphQL, Cloudflare integration, ECommerce solutions, Cache system, & more.
 
+
 ### 📊 **Studying a programming route and finishing a number of courses**  
-Studying a programming route and finishing a number of courses including:
+*Studying a programming route and finishing a number of courses | 2.5 Years*  
 - Programming Fundamentals & Introduction (12 sections)
 - Build Responsive Real-World Websites with HTML & CSS - Instructor: Jonas Schmedtmann
 - The Complete JavaScript Course: From Zero to Expert (2022) - Instructor: Jonas Schmedtmann
 - React & Next.js – The Complete Guide (incl. Hooks, React Router, Redux) - Instructor: Maximilian Schwarzmüller
 - Node.js, Express, MongoDB & More: The Complete Bootcamp - Instructor: Jonas Schmedtmann
+
 
 ### 📊 **General Accountant**  
 *Viva Light & Healthcare Section | 2.5 Years*  
