@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Yehia Helal  
 ### **Full Stack Web Developer**
 
-I'm a passionate developer with 3+ years of experience in building modern web applications, Discord bots, and eCommerce solutions. I love turning ideas into code and solving real-world problems with technology.
+I'm a passionate developer with 4 years of experience in building modern web applications, Discord bots, and eCommerce solutions. I love turning ideas into code and solving real-world problems with technology.
 
 ---
 
@@ -39,29 +39,31 @@ I'm a passionate developer with 3+ years of experience in building modern web ap
 ### **Specialties**
 - **Full Stack Development** 
 - **Discord Bot Development** (40+ bots built and sold)
-- **Web Scraping & Automation** (Puppeteer)
+- **Web Scraping & Automation** 
 - **AI Integration**
 - **E-Commerce Solutions**
+- **Custom Live chat solutions**
 - **VPS & Server Management**
-- Managed full project lifecycle: design, development, deployment, and client support.  
+- **Managed full project lifecycle: design, development, deployment, and client support **
 
 ---
 
 ## 📈 Experience
 
 ### 💻 **Full Stack Web Developer**  
-*X Tech | 3+ Years*  
-- Built and Developed various web projects Game marketplace and eCommerce.
-- Full Stack Development and Discord Bot Development (40+ bots built and sold)
-- Web Scraping & Automation (Puppeteer)
-- AI Integration
-- Delivered 50+ projects including web apps, Discord bots and gaming platform
-- Managed full project lifecycle: design, development, deployment, and client support.
-- VPS & Server Management
+*X Tech | 4+ Years*  
+Main stack: Next.js, React, Node.js, Javascript, Typescript, HTML, CSS, Java & More.
+- Worked with more than 50+ clients, building their Websites, Discord servers, Discord bots (40+ custom discord bots solutions) & System solutions
+- Managing full project lifecycle: design, development, deployment, and client support.
+- Using Technologies: CI/CD, Git, Vercel integration, Modern UI & UX, VPS Management, AI Integration, Discord bots Development, Custom live chat solutions, Web scraping solutions, AWS integration, GraphQL, Cloudflare integration, ECommerce solutions, Cache system, & more.
+
 
 ### 📊 **General Accountant**  
-*Two Companies | 3 Years*  
-- Handled bookkeeping, financial reporting, and daily operational tasks.
+*Viva Light & Healthcare Section | 2.5 Years*  
+- Handling daily operation recording
+- Financial Reporting
+- Inventory and company finances management
+- Handling customers inquires
 
 ---
 
@@ -69,15 +71,6 @@ I'm a passionate developer with 3+ years of experience in building modern web ap
 
 ### 🌐 **Portfolio & Projects:**  
 🔗 [xtechproducts.com](https://www.xtechproducts.com/)  
-A showcase of my work including:
-- Full Stack Development 
-- Discord Bot Development (40+ bots built and sold)
-- Web Scraping & Automation (Puppeteer)
-- AI Integration
-- E-Commerce Solutions
-- Delivered 50+ projects including web apps, Discord bots and gaming platform
-- Managed full project lifecycle: design, development, deployment, and client support.
-- VPS & Server Management
 
 ---
 
