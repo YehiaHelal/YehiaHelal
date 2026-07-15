@@ -38,13 +38,10 @@ I'm a passionate developer with 4 years of experience in building modern web app
 
 ### **Specialties**
 - **Full Stack Development** 
-- **Discord Bot Development** (40+ bots built and sold)
-- **Web Scraping & Automation** 
-- **AI Integration**
-- **E-Commerce Solutions**
-- **Custom Live chat solutions**
-- **VPS & Server Management**
-- **Managed full project lifecycle: design, development, deployment, and client support **
+- Main stack: Next.js, React, Node.js, Javascript, Typescript, HTML, CSS, Java & More.
+- Worked with more than 50+ clients, building their Websites, Discord servers, Discord bots (40+ custom discord bots solutions) & System solutions
+- Managing full project lifecycle: design, development, deployment, and client support.
+- Using Technologies: CI/CD, Git, Vercel integration, Modern UI & UX, VPS Management, AI Integration, Discord bots Development, Custom live chat solutions, Web scraping solutions, AWS integration, GraphQL, Cloudflare integration, ECommerce solutions, Cache system, & more.
 
 ---
 
