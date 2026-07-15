@@ -48,7 +48,7 @@ I'm a passionate developer with 4 years of experience in building modern web app
 ## 📈 Experience
 
 ### 💻 **Full Stack Web Developer**  
-*X Tech | 4+ Years*  
+*X Tech | 4 Years*  
 Main stack: Next.js, React, Node.js, Javascript, Typescript, HTML, CSS, Java & More.
 - Worked with more than 50+ clients, building their Websites, Discord servers, Discord bots (40+ custom discord bots solutions) & System solutions
 - Managing full project lifecycle: design, development, deployment, and client support.
